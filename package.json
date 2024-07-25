@@ -1,0 +1,15 @@
+{
+  "name": "culturist-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "redocly preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@redocly/cli": "1.18.1"
+  }
+}
